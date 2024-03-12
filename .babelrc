@@ -1,0 +1,6 @@
+// sirve para configurar babel. (Balbel es un constrapilador que convierte un codigo de javascript moderno a uno estandar para que sea entendido por todas los sistemas)
+//Es una buena practica usarlo
+
+{
+    "presets": ["@babel/preset-env"]
+}
